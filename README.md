@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -52,3 +53,7 @@ export default tseslint.config({
   },
 })
 ```
+=======
+# Todo-App-TS
+This is the repository, which contains a daily todo app which is created using React+Typescript. Since, this is the beginner-friendly project who just learned Typescript.
+>>>>>>> 5e2d0c60b42fa151c9cb89046520c96499f479f6
